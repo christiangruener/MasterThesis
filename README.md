@@ -18,6 +18,7 @@ For the implementation Python 3.6 was used.
 # The Deep Neural Network:
 Consisting of the files: main + myproblems
 - for usage run the main file and choose your problem
+(csv data is imported automatically into the deep neural network when pricing the dax option)
   
 
 
